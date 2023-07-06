@@ -18,4 +18,4 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-![link to the deployed website](https://hadiqaaziz.github.io/Module_3_Assignment/)
+[link to the deployed website](https://hadiqaaziz.github.io/Module_3_Assignment/)
