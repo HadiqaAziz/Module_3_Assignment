@@ -18,7 +18,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-![Screenshot of the deployed website]
+Screenshot of the deployed website
 
 <img width="911" alt="screenshot" src="https://github.com/HadiqaAziz/Module_3_Assignment/assets/2726317/dba88fc7-1bde-4f7f-a9e2-8f452c6b850c">
 
