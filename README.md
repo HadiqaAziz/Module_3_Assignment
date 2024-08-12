@@ -2,24 +2,6 @@
 
 This repository contains the files for a password generator application built using JavaScript.
 
-# Acceptance Criteria
-
-The password generator meets the following criteria:
-
-1. **Generate a Password**: 
-   - When the user clicks the button to generate a password, they are presented with a series of prompts to define the password criteria.
-
-2. **Password Criteria**:
-   - **Password Length**: The user can specify a length of at least 8 characters and no more than 128 characters.
-   - **Character Types**: The user can choose to include lowercase letters, uppercase letters, numeric characters, and/or special characters.
-
-3. **Validation**:
-   - The input should be validated to ensure that at least one character type is selected.
-
-4. **Password Generation**:
-   - A password is generated based on the selected criteria.
-   - The generated password is either displayed in an alert or written to the page.
-
 # Screenshot
 
 Below is a screenshot of the deployed website:
