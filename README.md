@@ -1,4 +1,4 @@
-# Module_3_Assignment
+# Password-Generator-using-JavaScript
 
 This repository contains the files for a password generator application built using JavaScript.
 
